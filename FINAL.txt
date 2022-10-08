@@ -1,6 +1,6 @@
 $ git log
 commit 8bf4e397125eabcd6ec2a53defded043602256da (HEAD -> branch2, origin/branch5, origin/branch4, origin/branch3, origin/branch2, master, branch5, branch4, branch3, branch1)
 Author: unknown <vladislav-2001@mail.ru>
-Date:   Mon Sep 12 16:30:55 2022 +03000
+Date:   Mon Sep 12 16:30:55 2022 +0300
 
     first commit
